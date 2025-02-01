@@ -14,7 +14,6 @@ import optuna
 import warnings
 
 warnings.filterwarnings('ignore')
-pd.options.display.max_columns = None
 
 ###############################################################################
 #                           Custom Transformers                               #
